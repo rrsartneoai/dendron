@@ -1,4 +1,4 @@
-
+::::
 # Contributing
 
 If you would like to contribute to the development of Dendron, checkout out the [Dendron repo](https://link.dendron.so/github) from GitHub.
